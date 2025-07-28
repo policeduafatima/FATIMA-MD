@@ -1,7 +1,7 @@
 {
   "name": "FATIMA-MD",
   "description": "Javascript WhatsApp bot made by DUA FATIMA",
-  "logo": "https://files.catbox.moe/hc962y.jpg",
+  "logo": "https://i.ibb.co/vx83K50z/jpg.jpg",
   "keywords": ["FATIMA-MD"],
   "success_url": "/",
 
@@ -131,7 +131,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/hc962y.jpg"
+      "value": "https://i.ibb.co/vx83K50z/jpg.jpg"
     },
     
      "DESCRIPTION": {
