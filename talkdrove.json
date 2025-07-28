@@ -1,0 +1,30 @@
+{
+"bot-name": "FATIMA-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dua Fatima",
+  "logo": "https://files.catbox.moe/27sdkb.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://dua-fatima.onrender.com",
+    "owner-verification":"policeduafatima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with fatima",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": false,
+      "value": "923155641171"
+      },
+      
+    "OWNER_NAME": {
+      "description": "Enter owner name",
+      "required": false,
+      "value": "Dua Fatima"
+
+    }  
+  }
+}
