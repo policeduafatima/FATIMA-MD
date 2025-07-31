@@ -7,7 +7,7 @@
     "start": "pm2-runtime index.js --name FATIMA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "git+npm:@fizzxydev/baileys-pro@8.5.12",
+    "@whiskeysockets/baileys": "github:EdderBot02/bail",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
